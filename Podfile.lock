@@ -12,7 +12,7 @@ PODS:
   - AFNetworking/Reachability (3.1.0)
   - AFNetworking/Security (3.1.0)
   - AFNetworking/Serialization (3.1.0)
-  - AFNetworking/UIKit (3.1.0):
+  - AFNetworking/UIKit (3.1.0):xiuixiumian
     - AFNetworking/NSURLSession
 
 DEPENDENCIES:
